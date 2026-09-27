@@ -1,0 +1,64 @@
+{
+"cards": [
+{
+"label": "TV EN VIVO",
+"icon": "icon_tvhd",
+"actividad": "MagmatvActivity",
+"visible": true
+},
+{
+"label": "CANALES DEPORTIVOS",
+"icon": "icon_tvhd",
+"actividad": "TvhdActivity",
+"visible": true
+},
+{
+"label": "EVENTOS DAX",
+"icon": "icon_soccer",
+"actividad": "LarojaActivity",
+"visible": true
+},
+{
+"label": "EVENTOS DEPORTIVOS 1",
+"icon": "icon_agenda_sports",
+"actividad": "EventosActivity",
+"visible": false
+},
+{
+"label": "EVENTOS DEPORTIVOS 2",
+"icon": "icon_agenda_sports",
+"actividad": "Eventos2Activity",
+"visible": false
+},
+{
+"label": "PELÍCULAS",
+"icon": "icon_film",
+"actividad": "MoviesActivity",
+"visible": false
+},
+{
+"label": "SERIES",
+"icon": "icon_series",
+"actividad": "SeriesActivity",
+"visible": false
+},
+{
+"label": "REPRODUCTOR DE STREAM",
+"icon": "icon_play_circle",
+"actividad": "PanelagregarstreamActivity",
+"visible": true
+},
+{
+"label": "TABLA DE POSICIONES",
+"icon": "icon_ranking_star",
+"actividad": "TablaposiActivity",
+"visible": false
+},
+{
+"label": "AVISO LEGAL",
+"icon": "icon_gavel",
+"actividad": "LegalActivity",
+"visible": false
+}
+]
+}
