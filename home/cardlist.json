@@ -3,7 +3,7 @@
 {
 "label": "TV EN VIVO",
 "icon": "ictviax_tvhd",
-"fondoicon": "#9C1A15",
+"fondoicon": "#b42240",
 "coloricon": "#eef2f0",
 "actividad": "MagmatvActivity",
 "visible": true
