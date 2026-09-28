@@ -2,19 +2,19 @@
 "cards": [
 {
 "label": "TV EN VIVO",
-"icon": "icon_tvhd",
+"icon": "ictviax_tvhd",
 "actividad": "MagmatvActivity",
 "visible": true
 },
 {
 "label": "CANALES DEPORTIVOS",
-"icon": "icon_tvhd",
+"icon": "ictviax_tvhd",
 "actividad": "TvhdActivity",
-"visible": true
+"visible": false
 },
 {
 "label": "EVENTOS DAX",
-"icon": "icon_soccer",
+"icon": "ictviax_football",
 "actividad": "LarojaActivity",
 "visible": true
 },
@@ -32,21 +32,39 @@
 },
 {
 "label": "PELÍCULAS",
-"icon": "icon_film",
+"icon": "ictviax_film",
 "actividad": "MoviesActivity",
 "visible": false
 },
 {
 "label": "SERIES",
-"icon": "icon_series",
+"icon": "ictviax_series",
 "actividad": "SeriesActivity",
-"visible": false
+"visible": true
+},
+{
+"label": "ANIMÉ",
+"icon": "ictviax_anime",
+"actividad": "AnimeActivity",
+"visible": true
+},
+{
+"label": "DORAMAS",
+"icon": "ictviax_doramas",
+"actividad": "DoramasActivity",
+"visible": true
+},
+{
+"label": "ADULTOS +18",
+"icon": "ictviax_18",
+"actividad": "AdultosActivity",
+"visible": true
 },
 {
 "label": "REPRODUCTOR DE STREAM",
 "icon": "icon_play_circle",
 "actividad": "PanelagregarstreamActivity",
-"visible": true
+"visible": false
 },
 {
 "label": "TABLA DE POSICIONES",
