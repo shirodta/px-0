@@ -4,6 +4,7 @@
 "label": "TV EN VIVO",
 "icon": "ictviax_tvhd",
 "fondoicon": "#9C1A15",
+"coloricon": "#00E5FF",
 "actividad": "MagmatvActivity",
 "visible": true
 },
@@ -11,6 +12,7 @@
 "label": "CANALES DEPORTIVOS",
 "icon": "ictviax_tvhd",
 "fondoicon": "",
+"coloricon": "",
 "actividad": "TvhdActivity",
 "visible": false
 },
@@ -18,6 +20,7 @@
 "label": "EVENTOS DAX",
 "icon": "ictviax_football",
 "fondoicon": "#39C5BB",
+"coloricon": "#363636",
 "actividad": "EventostreamedActivity",
 "visible": true
 },
@@ -25,6 +28,7 @@
 "label": "EVENTOS DEPORTIVOS 1",
 "icon": "icon_agenda_sports",
 "fondoicon": "",
+"coloricon": "",
 "actividad": "EventosActivity",
 "visible": false
 },
@@ -32,6 +36,7 @@
 "label": "EVENTOS DEPORTIVOS 2",
 "icon": "icon_agenda_sports",
 "fondoicon": "",
+"coloricon": "",
 "actividad": "Eventos2Activity",
 "visible": false
 },
@@ -39,6 +44,7 @@
 "label": "PELÍCULAS",
 "icon": "ictviax_film",
 "fondoicon": "#E2C456",
+"coloricon": "#ffffff",
 "actividad": "MovieActivity",
 "visible": true
 },
@@ -46,6 +52,7 @@
 "label": "SERIES",
 "icon": "ictviax_series",
 "fondoicon": "#66CCFF",
+"coloricon": "#ffffff",
 "actividad": "SeriesActivity",
 "visible": true
 },
@@ -53,6 +60,7 @@
 "label": "ANIMÉ",
 "icon": "ictviax_anime",
 "fondoicon": "#6309BE",
+"coloricon": "#ffffff",
 "actividad": "AnimeActivity",
 "visible": true
 },
@@ -60,6 +68,7 @@
 "label": "DORAMAS",
 "icon": "ictviax_doramas",
 "fondoicon": "#FF3366",
+"coloricon": "#ffffff",
 "actividad": "DoramasActivity",
 "visible": true
 },
@@ -67,6 +76,7 @@
 "label": "ADULTOS +18",
 "icon": "ictviax_18",
 "fondoicon": "#F4511E",
+"coloricon": "#ffffff",
 "actividad": "AdultosActivity",
 "visible": true
 },
@@ -74,6 +84,7 @@
 "label": "REPRODUCTOR DE STREAM",
 "icon": "icon_play_circle",
 "fondoicon": "",
+"coloricon": "",
 "actividad": "PanelagregarstreamActivity",
 "visible": false
 },
@@ -81,6 +92,7 @@
 "label": "TABLA DE POSICIONES",
 "icon": "icon_ranking_star",
 "fondoicon": "",
+"coloricon": "",
 "actividad": "TablaposiActivity",
 "visible": false
 },
@@ -88,6 +100,7 @@
 "label": "AVISO LEGAL",
 "icon": "icon_gavel",
 "fondoicon": "",
+"coloricon": "",
 "actividad": "LegalActivity",
 "visible": false
 }
