@@ -3,78 +3,91 @@
 {
 "label": "TV EN VIVO",
 "icon": "ictviax_tvhd",
+"fondoicon": "#9C1A15",
 "actividad": "MagmatvActivity",
 "visible": true
 },
 {
 "label": "CANALES DEPORTIVOS",
 "icon": "ictviax_tvhd",
+"fondoicon": "",
 "actividad": "TvhdActivity",
 "visible": false
 },
 {
 "label": "EVENTOS DAX",
 "icon": "ictviax_football",
+"fondoicon": "#39C5BB",
 "actividad": "EventostreamedActivity",
 "visible": true
 },
 {
 "label": "EVENTOS DEPORTIVOS 1",
 "icon": "icon_agenda_sports",
+"fondoicon": "",
 "actividad": "EventosActivity",
 "visible": false
 },
 {
 "label": "EVENTOS DEPORTIVOS 2",
 "icon": "icon_agenda_sports",
+"fondoicon": "",
 "actividad": "Eventos2Activity",
 "visible": false
 },
 {
 "label": "PELÍCULAS",
 "icon": "ictviax_film",
+"fondoicon": "#E2C456",
 "actividad": "MovieActivity",
 "visible": true
 },
 {
 "label": "SERIES",
 "icon": "ictviax_series",
+"fondoicon": "#66CCFF",
 "actividad": "SeriesActivity",
 "visible": true
 },
 {
 "label": "ANIMÉ",
 "icon": "ictviax_anime",
+"fondoicon": "#6309BE",
 "actividad": "AnimeActivity",
 "visible": true
 },
 {
 "label": "DORAMAS",
 "icon": "ictviax_doramas",
+"fondoicon": "#FF3366",
 "actividad": "DoramasActivity",
 "visible": true
 },
 {
 "label": "ADULTOS +18",
 "icon": "ictviax_18",
+"fondoicon": "#FF8530",
 "actividad": "AdultosActivity",
 "visible": true
 },
 {
 "label": "REPRODUCTOR DE STREAM",
 "icon": "icon_play_circle",
+"fondoicon": "",
 "actividad": "PanelagregarstreamActivity",
 "visible": false
 },
 {
 "label": "TABLA DE POSICIONES",
 "icon": "icon_ranking_star",
+"fondoicon": "",
 "actividad": "TablaposiActivity",
 "visible": false
 },
 {
 "label": "AVISO LEGAL",
 "icon": "icon_gavel",
+"fondoicon": "",
 "actividad": "LegalActivity",
 "visible": false
 }
