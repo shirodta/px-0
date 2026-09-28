@@ -4,7 +4,7 @@
 "label": "TV EN VIVO",
 "icon": "ictviax_tvhd",
 "fondoicon": "#9C1A15",
-"coloricon": "#00E5FF",
+"coloricon": "#eef2f0",
 "actividad": "MagmatvActivity",
 "visible": true
 },
@@ -19,8 +19,8 @@
 {
 "label": "EVENTOS DAX",
 "icon": "ictviax_football",
-"fondoicon": "#39C5BB",
-"coloricon": "#363636",
+"fondoicon": "#178860",
+"coloricon": "#eef2f0",
 "actividad": "EventostreamedActivity",
 "visible": true
 },
@@ -43,16 +43,16 @@
 {
 "label": "PELÍCULAS",
 "icon": "ictviax_film",
-"fondoicon": "#E2C456",
-"coloricon": "#ffffff",
+"fondoicon": "#d68f2a",
+"coloricon": "#eef2f0",
 "actividad": "MovieActivity",
 "visible": true
 },
 {
 "label": "SERIES",
 "icon": "ictviax_series",
-"fondoicon": "#66CCFF",
-"coloricon": "#ffffff",
+"fondoicon": "#357cb8",
+"coloricon": "#eef2f0",
 "actividad": "SeriesActivity",
 "visible": true
 },
@@ -60,7 +60,7 @@
 "label": "ANIMÉ",
 "icon": "ictviax_anime",
 "fondoicon": "#6309BE",
-"coloricon": "#ffffff",
+"coloricon": "#eef2f0",
 "actividad": "AnimeActivity",
 "visible": true
 },
@@ -68,7 +68,7 @@
 "label": "DORAMAS",
 "icon": "ictviax_doramas",
 "fondoicon": "#FF3366",
-"coloricon": "#ffffff",
+"coloricon": "#eef2f0",
 "actividad": "DoramasActivity",
 "visible": true
 },
@@ -76,7 +76,7 @@
 "label": "ADULTOS +18",
 "icon": "ictviax_18",
 "fondoicon": "#F4511E",
-"coloricon": "#ffffff",
+"coloricon": "#eef2f0",
 "actividad": "AdultosActivity",
 "visible": true
 },
