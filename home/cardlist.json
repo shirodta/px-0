@@ -59,7 +59,7 @@
 {
 "label": "ANIMÉ",
 "icon": "ictviax_anime",
-"fondoicon": "#6309BE",
+"fondoicon": "#5c44a4",
 "coloricon": "#eef2f0",
 "actividad": "AnimeActivity",
 "visible": true
@@ -67,7 +67,7 @@
 {
 "label": "DORAMAS",
 "icon": "ictviax_doramas",
-"fondoicon": "#FF3366",
+"fondoicon": "#e82672",
 "coloricon": "#eef2f0",
 "actividad": "DoramasActivity",
 "visible": true
@@ -75,7 +75,7 @@
 {
 "label": "ADULTOS +18",
 "icon": "ictviax_18",
-"fondoicon": "#F4511E",
+"fondoicon": "#d85c2c",
 "coloricon": "#eef2f0",
 "actividad": "AdultosActivity",
 "visible": true
