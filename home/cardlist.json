@@ -34,7 +34,7 @@
 "label": "PELÍCULAS",
 "icon": "ictviax_film",
 "actividad": "MoviesActivity",
-"visible": false
+"visible": true
 },
 {
 "label": "SERIES",
