@@ -66,7 +66,7 @@
 {
 "label": "ADULTOS +18",
 "icon": "ictviax_18",
-"fondoicon": "#FF8530",
+"fondoicon": "#F4511E",
 "actividad": "AdultosActivity",
 "visible": true
 },
