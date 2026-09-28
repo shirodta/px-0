@@ -2,43 +2,43 @@
 "carouselShow": true,
 "carousel": [
 {
-"img": "https://mifutbolecuador.futbol/wp-content/uploads/2023/12/bandera-ecuador-balon.jpeg?w=700",
-"title": "Prueba 218",
-"url": "https://embedsports.top/embed/admin/ppv-new-york-knicks-vs-san-antonio-spurs/1",
-"icon": "icon_broadcast_tower_red",
-"actividad": "ExoeventoschannelActivity",
+"img": "https://raw.githubusercontent.com/Yamirco/Goat/main/logos/Soloeventos.jpg",
+"title": "05:10-01-10-2026 Japón vs Ecuador",
+"url": "https://la18hd.su/vivo/canales.php?stream=ecdf_ligapro",
+"icon": "ictviax_football",
+"actividad": "GoativoplayerActivity",
 "visible": true
 },
 {
-"img": "https://mifutbolecuador.futbol/wp-content/uploads/2023/12/bandera-ecuador-balon.jpeg?w=700",
-"title": "Prueba 24",
-"url": "https://daxplayer.alwaysdata.net/susen/susen.php?id=88",
-"icon": "icon_broadcast_tower_red",
-"actividad": "DaxexoActivity",
-"visible": true
-},
-{
-"img": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"img": "https://raw.githubusercontent.com/Yamirco/Goat/main/logos/Espn1.jpg",
 "title": "ESPN",
-"url": "https://la14hd.com/vivo/canales.php?stream=espn",
-"icon": "icon_broadcast_tower_red",
-"actividad": "ExoeventoschannelActivity",
+"url": "https://streamtp-golden1.click/global1.php?stream=espn",
+"icon": "ictviax_tvhd",
+"actividad": "GoativoplayerActivity",
 "visible": true
 },
 {
-"img": "https://livecdn.cameltv.live/common/pic/20260507/214804ace7aa4c76a1addb30c8b8e376.png?imageView2/0/w/1200/q/75/format/webp",
-"title": "DIRECTV SPORTS",
-"url": "https://embed.ksdjugfsddeports.com/embed/directvsports.html",
+"img": "https://raw.githubusercontent.com/Yamirco/Goat/main/logos/Dsports.jpg",
+"title": "Dsports",
+"url": "https://streamtp-golden1.click/global1.php?stream=dsports",
 "icon": "icon_broadcast_tower_red",
-"actividad": "ExoeventoschannelActivity",
+"actividad": "GoativoplayerActivity",
 "visible": true
 },
 {
-"img": "https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg",
-"title": "AXN",
-"url": "https://embed.ksdjugfsddeports.com/embed/axn.html",
-"icon": "icon_tvhd",
-"actividad": "ExoeventoschannelActivity",
+"img": "https://raw.githubusercontent.com/Yamirco/Goat/main/logos/Winsportsplus.jpg",
+"title": "Win Sports",
+"url": "https://streamtp-golden1.click/global1.php?stream=winplus",
+"icon": "icon_broadcast_tower_red",
+"actividad": "GoativoplayerActivity",
+"visible": true
+},
+{
+"img": "https://upload.wikimedia.org/wikipedia/commons/6/61/Liga1max.png",
+"title": "Liga 1 MAX",
+"url": "https://streamtp-golden1.click/global1.php?stream=liga1max",
+"icon": "icon_broadcast_tower_red",
+"actividad": "GoativoplayerActivity",
 "visible": true
 }
 ]
