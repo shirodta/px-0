@@ -33,7 +33,7 @@
 {
 "label": "PELÍCULAS",
 "icon": "ictviax_film",
-"actividad": "MoviesActivity",
+"actividad": "MovieActivity",
 "visible": true
 },
 {
