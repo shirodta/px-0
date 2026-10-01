@@ -11,10 +11,10 @@
 {
 "label": "CANALES DEPORTIVOS",
 "icon": "ictviax_tvhd",
-"fondoicon": "",
-"coloricon": "",
-"actividad": "TvhdActivity",
-"visible": false
+"fondoicon": "#b42240",
+"coloricon": "#eef2f0",
+"actividad": "CanaleshdActivity",
+"visible": true
 },
 {
 "label": "EVENTOS DAX",
