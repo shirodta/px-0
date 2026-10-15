@@ -103,6 +103,14 @@
 "coloricon": "",
 "actividad": "LegalActivity",
 "visible": false
+},
+{
+"label": "DNS PRIVADO",
+"icon": "ic_dns",
+"fondoicon": "#40E0D0",
+"coloricon": "#eef2f0",
+"actividad": "GoativodnsActivity",
+"visible": true
 }
 ]
 }
