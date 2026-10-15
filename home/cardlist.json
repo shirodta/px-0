@@ -11,7 +11,7 @@
 {
 "label": "CANALES DEPORTIVOS",
 "icon": "ictviax_tvhd",
-"fondoicon": "#b42240",
+"fondoicon": "#D6C1A6",
 "coloricon": "#eef2f0",
 "actividad": "CanaleshdActivity",
 "visible": true
