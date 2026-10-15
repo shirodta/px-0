@@ -11,7 +11,7 @@
 {
 "label": "CANALES DEPORTIVOS",
 "icon": "ictviax_tvhd",
-"fondoicon": "#D6C1A6",
+"fondoicon": "#A98232",
 "coloricon": "#eef2f0",
 "actividad": "CanaleshdActivity",
 "visible": true
@@ -107,7 +107,7 @@
 {
 "label": "DNS PRIVADO",
 "icon": "ic_dns",
-"fondoicon": "#40E0D0",
+"fondoicon": "#263C65",
 "coloricon": "#eef2f0",
 "actividad": "GoativodnsActivity",
 "visible": true
